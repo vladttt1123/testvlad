@@ -1,4 +1,4 @@
-NEW TEST
+UPTODATE TEST
 testing line
 untesting file
 grt
